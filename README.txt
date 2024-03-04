@@ -1,0 +1,1 @@
+This is a JavaScript project to explore my current skills. 
